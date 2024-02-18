@@ -1,0 +1,11 @@
+# Site settings
+title: Coursera Blog Page
+author:
+  name: Fabio Cezar
+description: "Great site about Jekyll on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
+
+
+
